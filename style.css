@@ -1,0 +1,16 @@
+.main{
+    display: flex;
+    justify-content: space-evenly;
+    width: 400px;
+    border:1px solid black ; 
+}
+p{
+    font-size: 50px;
+    font-weight: 600;
+}
+
+button {
+ padding: 5px 20px;
+ background-color: blue;
+ color: white;   
+}
